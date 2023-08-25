@@ -1,0 +1,5 @@
+.nvimlog
+.vscode
+*.swp
+.DS_Store
+
