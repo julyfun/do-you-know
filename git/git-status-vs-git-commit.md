@@ -1,0 +1,1 @@
+While git status only tells you the state of your file changes, git diff tells you the exact changes. You can use git diff to compare your changes before staging or committing them. You can also use this command with the --color-words flag to highlight changes in a visual manner: There you go!
